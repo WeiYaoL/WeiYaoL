@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 , I'm WeiYaoL
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WeiYaoL)](https://github.com/anuraghazra/github-readme-stats?theme=THEME_NAME)
+
 
 <!--
 **WeiYaoL/WeiYaoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
