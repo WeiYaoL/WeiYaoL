@@ -1,6 +1,8 @@
 ### Hi there 👋 , I'm WeiYaoL
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WeiYaoL)](https://github.com/anuraghazra/github-readme-stats?theme=THEME_NAME)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WeiYaoL&show_icons=true&theme=synthwave&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiYaoL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
